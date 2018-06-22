@@ -1,0 +1,29 @@
+cpanels
+pass:- BL6$o-sX0LGY
+username:- mueblesmarfavi
+web:- https://www.mueblesmarfavi.com:2083/
+-------------------------------------------------------------
+pass:- ;=VQ5j3.VjRB
+username:- microfas
+web:- https://www.microfast.com.co:2083/
+-------------------------------------------------------------
+pass:- !jXScOrF9MWQ
+username:- marthalopezcoach
+web:- https://marthalopezcoaching.com:2083/
+-------------------------------------------------------------
+pass:- xCg_gmD4N]hV
+username:- lingolabcom
+web:- https://lingolab.com.mx:2083/
+-------------------------------------------------------------
+pass:-
+username:-
+web:-
+-------------------------------------------------------------
+pass:-
+username:-
+web:-
+-------------------------------------------------------------
+pass:-
+username:-
+web:-
+-------------------------------------------------------------
